@@ -4,4 +4,5 @@
 
 ## Notes
 
-No notes yet.
+- [Networking index](README.md)
+- [Connections](connection.md)
